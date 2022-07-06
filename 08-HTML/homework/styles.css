@@ -1,0 +1,20 @@
+.divClass h1{
+    color: rgb(201, 184, 35);
+}
+
+#thirdDiv ul li img{
+   width: 90px;
+}
+
+.divclass #spanId {
+   font-size: 18px;
+   margin: 50px;
+}
+    
+ #thidDiv {
+   height: 600px;
+   width: 500PX;
+   background-color: brown;
+   padding: 50px;
+   border: 5px color pink;
+}
